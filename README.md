@@ -5,7 +5,7 @@ Percent of Opcode Generator
 
 
 
-    OpCode Analyzer 
+    PerOpcode Analyzer 
     
     
     Run Options : 
