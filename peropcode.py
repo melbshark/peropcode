@@ -15,7 +15,14 @@ import opcode
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 
+try:
 from capstone import *
+except ImportError:
+print 'import capstone module failed'
+exit(0)
+
+
+
 import argparse
 import binascii
 import fnmatch
