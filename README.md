@@ -14,7 +14,8 @@ Percent of Opcode Generator
          -dbg [True]  Debug Mode display Opcodes diassembled from given file
          -db database connections next version
          -w [PATH]  results stored into given path
-         
+         -help
+         -version
  Usage : ./peropcode.py -dir [PATH] -w [PATH] -dbg True/False
    
 
