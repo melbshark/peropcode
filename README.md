@@ -17,8 +17,11 @@ Percent of Opcode Generator
          
  Usage : ./peropcode.py -dir [PATH] -w [PATH] -dbg True/False
    
+
+    Created By PolymorphicCode 2014 
+
     Results :[File Information]
-opcode percent = {
+       opcode percent = {
 	    "add":46.15,
 	    "and":9.23,
 	    "bound":1.54,
@@ -41,8 +44,5 @@ opcode percent = {
 total opcode size = 65
 file type = ('application/x-msdownload', None)
 set(opcode size) = 18
-filename = chrome.exe
-
-    Created By PolymorphicCode 2014 
-
+filename = test.exe
 
