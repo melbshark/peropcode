@@ -16,40 +16,33 @@ Percent of Opcode Generator
          -w [PATH]  results stored into given path
          
  Usage : ./peropcode.py -dir [PATH] -w [PATH] -dbg True/False
+   
+    Results :[File Information]
+opcode percent = {
+	    "add":46.15,
+	    "and":9.23,
+	    "bound":1.54,
+	    "dec":1.54,
+	    "inc":1.54,
+	    "insw":1.54,
+	    "int":3.08,
+	    "jb":3.08,
+	    "je":1.54,
+	    "mov":4.62,
+	    "nop":1.54,
+	    "or":1.54,
+	    "outsb":4.62,
+	    "outsw":3.08,
+	    "pop":4.62,
+	    "push":7.69,
+	    "sub":1.54,
+	    "xor":1.54
+	}
+total opcode size = 65
+file type = ('application/x-msdownload', None)
+set(opcode size) = 18
+filename = chrome.exe
 
     Created By PolymorphicCode 2014 
 
-
-Results:
-File Information
-
-{
-    "File Type":"('application/x-msdownload', None)",
-    "FileName":"test.exe",
-    "Set(Opcode Size)":"18",
-    "Total Opcode Size":"65"
-}
-
- Opcode Percent 
-
-{
-    "add":46.15,
-    "and":9.23,
-    "bound":1.54,
-    "dec":1.54,
-    "inc":1.54,
-    "insw":1.54,
-    "int":3.08,
-    "jb":3.08,
-    "je":1.54,
-    "mov":4.62,
-    "nop":1.54,
-    "or":1.54,
-    "outsb":4.62,
-    "outsw":3.08,
-    "pop":4.62,
-    "push":7.69,
-    "sub":1.54,
-    "xor":1.54
-}
 
