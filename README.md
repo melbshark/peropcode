@@ -4,7 +4,7 @@ peropcode
 Percent of Opcode Generator
 
 
-"""
+
     OpCode Analyzer 
     
     
@@ -15,10 +15,10 @@ Percent of Opcode Generator
          -db database connections next version
          -w [PATH]  results stored into given path
          
- Usage : python OpCodeAnalyzer.py -dir [PATH] -w [PATH] -dbg True ( display on the screen )
+ Usage : ./peropcode.py -dir [PATH] -w [PATH] -dbg True/False
 
     Created By PolymorphicCode 2014 
-"""
+
 
 Results:
 File Information
