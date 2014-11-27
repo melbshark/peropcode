@@ -41,8 +41,8 @@ Percent of Opcode Generator
 	    "sub":1.54,
 	    "xor":1.54
 	}
-total opcode size = 65
-file type = ('application/x-msdownload', None)
-set(opcode size) = 18
-filename = test.exe
+	total opcode size = 65
+	file type = ('application/x-msdownload', None)
+	set(opcode size) = 18
+	filename = test.exe
 
